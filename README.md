@@ -32,7 +32,7 @@ pip install ecapture
 ```
 6. pyjokes library
 ```
-pip install ecapture
+pip install pyjokes
 ```
 7. twilio library
 ```
