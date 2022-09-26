@@ -50,3 +50,7 @@ pip install winshell
 ```
 pip install feedparser
 ```
+11. clint library
+```
+pip install clint
+```
